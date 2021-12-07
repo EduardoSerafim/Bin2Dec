@@ -2,7 +2,7 @@
 
 Conversor de binário para decinal 
 
-Ideia do desafio: [Rpositório App ideais](https://github.com/florinpop17/app-ideas)
+Ideia do desafio: [Repositório App ideais](https://github.com/florinpop17/app-ideas)
 
 Demo do projeto [aqui](https://awesome-lichterman-5d77a0.netlify.app)
 
