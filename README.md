@@ -2,7 +2,11 @@
 
 Conversor de binário para decinal 
 
-Ideia do desafio: [Rpositório App ideais](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)
+Ideia do desafio: [Rpositório App ideais](https://github.com/florinpop17/app-ideas)
+
+Demo do projeto [aqui](https://awesome-lichterman-5d77a0.netlify.app)
+
+--------------------------------------------------------------------------------------------------------
 
 **Tier:** 1-Beginner
 
