@@ -8,7 +8,7 @@ function bin2dec(bin) {
 
 binInput = document.querySelector('.binInput').value
 conversao = document.querySelector('.conversao')
-botao = document.querySelector('.converter')
+botao = document.querySelector('.botao')
 
 botao.addEventListener('click', (event) => {
         event.preventDefault()
@@ -25,7 +25,7 @@ botao.addEventListener('click', (event) => {
             alert('apenas 0 ou 1 é válido')
         } else {
             base = '10'
-            conversao.innerHTML = `(${binInput}) ${'2'.sub()} = (${bin2dec(binInput)}) ${'10'.sub()}` // output --- (bin)2 = (dec)10  --- 2 e 10 vão estar subscritos
+            conversao.innerHTML = `(${binInput})${'2'.sub()} = (${bin2dec(binInput)})${'10'.sub()}` // output --- (bin)2 = (dec)10  --- 2 e 10 vão estar subscritos
         }
 
     }
